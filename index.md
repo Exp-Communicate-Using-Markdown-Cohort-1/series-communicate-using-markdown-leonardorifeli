@@ -14,6 +14,7 @@ My GitHub is @leonardorifeli.
 
 - [x] Creating First Hello World
 - [x] Example with goroutines
+- [x] Running example
 
 ### Writing hello world
 
@@ -67,3 +68,5 @@ or
 ```
 $ go run main.go
 ```
+
+- [ ] Check here after execute your code.
