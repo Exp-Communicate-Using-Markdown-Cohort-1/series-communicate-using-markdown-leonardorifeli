@@ -54,3 +54,16 @@ func sayHello(name string) {
   fmt.Printf("Hello %s", name)
 }
 ```
+
+Running the code.
+
+```
+$ go build main.go
+$ ./main
+```
+
+or
+
+```
+$ go run main.go
+```
