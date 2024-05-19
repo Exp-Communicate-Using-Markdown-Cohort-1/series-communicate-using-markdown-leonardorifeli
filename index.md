@@ -47,6 +47,7 @@ import "fmt"
 func main() {
   go sayHello("Leonardo Rifeli")
   go sayHello("Best Brazilian Data Scientist & Mathematician")
+  go sayHello("CTO at Harmo Startup (harmo.me)"
 }
 
 func sayHello(name string) {
